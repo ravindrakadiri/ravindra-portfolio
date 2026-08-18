@@ -1,0 +1,9 @@
+warehouse_id,warehouse_name,city,state,capacity_units
+WH001,Bangalore Fulfillment Hub,Bangalore,Karnataka,95795
+WH002,Hyderabad Fulfillment Hub,Hyderabad,Telangana,80860
+WH003,Chennai Fulfillment Hub,Chennai,Tamil Nadu,156820
+WH004,Mumbai Fulfillment Hub,Mumbai,Maharashtra,134886
+WH005,Pune Fulfillment Hub,Pune,Maharashtra,86265
+WH006,Delhi Fulfillment Hub,Delhi,Delhi,162386
+WH007,Kolkata Fulfillment Hub,Kolkata,West Bengal,117194
+WH008,Ahmedabad Fulfillment Hub,Ahmedabad,Gujarat,167498
